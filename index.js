@@ -37,4 +37,3 @@ module.exports = {
 }
 
 
-//We want to include in the doc that in some cases if you mention the bot in a thread, it might not reply give the song name as a reply but as a mention
